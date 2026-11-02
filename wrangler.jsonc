@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers: serve the static Vite build (no server code). Build first with `npm run build`.
+  "name": "nexus-pog",
+  "compatibility_date": "2025-10-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
