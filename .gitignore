@@ -1,0 +1,9 @@
+node_modules
+dist
+.taste-skill
+tests/parity/out
+*.log
+tests/e2e/out
+tsconfig.tsbuildinfo
+# third-party design skill with its own git repository (install separately: see taste-skill README)
+taste-skill/
